@@ -15,10 +15,10 @@ const PORT = process.env.PORT || 5000
 app.use(morgan("dev"));
 
 app.use(express.json());
+ 
+app.use('/bookstore/books', bookRoute)
 
-app.use('/bookstore/books',bookRoute)
-
-app.get("/",(req,res)=>{
+app.get("/", (req, res) => {
     res.send("welcome...")
 })
 
