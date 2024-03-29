@@ -1,0 +1,123 @@
+[
+    {
+        "id": 8,
+        "book_name": "Pride and Prejudice",
+        "book_description": "A Classic Romance",
+        "author": "Jane Austen",
+        "year_of_publication": "2010-11-03",
+        "genre": "Romance, Classic Literature",
+        "price": 18,
+        "language": "English",
+        "ISBN": "978-1-4165-0381-5"
+    },
+    {
+        "id": 9,
+        "book_name": "Wuthering Heights",
+        "book_description": "A Tragic Love Story",
+        "author": "Emily Brontë",
+        "year_of_publication": "1847-12-19",
+        "genre": "Gothic Fiction, Romance",
+        "price": 15,
+        "language": "English",
+        "ISBN": "978-1-4165-0382-2"
+    },
+    {
+        "id": 10,
+        "book_name": "To Kill a Mockingbird",
+        "book_description": "A Novel of Race Relations",
+        "author": "Harper Lee",
+        "year_of_publication": "1960-07-11",
+        "genre": "Southern Gothic, Bildungsroman",
+        "price": 20,
+        "language": "English",
+        "ISBN": "978-1-4165-0383-9"
+    },
+    {
+        "id": 11,
+        "book_name": "1984",
+        "book_description": "A Dystopian Social Science Fiction",
+        "author": "George Orwell",
+        "year_of_publication": "1949-06-08",
+        "genre": "Dystopian Fiction, Political Fiction",
+        "price": 17,
+        "language": "English",
+        "ISBN": "978-1-4165-0384-6"
+    },
+    {
+        "id": 12,
+        "book_name": "The Great Gatsby",
+        "book_description": "A Jazz Age Social Commentary",
+        "author": "F. Scott Fitzgerald",
+        "year_of_publication": "1925-04-10",
+        "genre": "Modernist Literature, Tragedy",
+        "price": 18,
+        "language": "English",
+        "ISBN": "978-1-4165-0385-3"
+    },
+    {
+        "id": 13,
+        "book_name": "Jane Eyre",
+        "book_description": "An Autobiographical Novel",
+        "author": "Charlotte Brontë",
+        "year_of_publication": "1847-10-16",
+        "genre": "Gothic Fiction, Romance",
+        "price": 16,
+        "language": "English",
+        "ISBN": "978-1-4165-0386-0"
+    },
+    {
+        "id": 14,
+        "book_name": "The Catcher in the Rye",
+        "book_description": "A Coming-of-Age Novel",
+        "author": "J.D. Salinger",
+        "year_of_publication": "1951-07-16",
+        "genre": "Realistic Fiction, Bildungsroman",
+        "price": 19,
+        "language": "English",
+        "ISBN": "978-1-4165-0387-7"
+    },
+    {
+        "id": 15,
+        "book_name": "Moby-Dick",
+        "book_description": "A Novel of Whaling",
+        "author": "Herman Melville",
+        "year_of_publication": "1851-10-18",
+        "genre": "Adventure Fiction, Epic",
+        "price": 21,
+        "language": "English",
+        "ISBN": "978-1-4165-0388-4"
+    },
+    {
+        "id": 16,
+        "book_name": "The Lord of the Rings",
+        "book_description": "A High Fantasy Epic",
+        "author": "J.R.R. Tolkien",
+        "year_of_publication": "1954-07-29",
+        "genre": "High Fantasy, Adventure",
+        "price": 25,
+        "language": "English",
+        "ISBN": "978-1-4165-0389-1"
+    },
+    {
+        "id": 17,
+        "book_name": "Pippi Longstocking",
+        "book_description": "A Children's Novel",
+        "author": "Astrid Lindgren",
+        "year_of_publication": "1945-11-21",
+        "genre": "Children's Literature, Adventure",
+        "price": 14,
+        "language": "Swedish",
+        "ISBN": "978-1-4165-0390-7"
+    },
+    {
+        "id": 18,
+        "book_name": "Harry Potter and the Philosopher's Stone",
+        "book_description": "A Fantasy Adventure Novel",
+        "author": "J.K. Rowling",
+        "year_of_publication": "1997-06-26",
+        "genre": "Fantasy Fiction, Bildungsroman",
+        "price": 22,
+        "language": "English",
+        "ISBN": "978-1-4165-0391-4"
+    }
+]

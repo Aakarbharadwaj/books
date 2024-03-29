@@ -4,5 +4,5 @@ const deleteBook = require('../controllers/BookController/deleteBooks')
 const router = express.Router();
 
 router.post('/addbooks', addBooks);
-router.get('/deleteBooks/:id', deleteBook);
+router.delete('/deletebooks/:id', deleteBook);
 module.exports = router;

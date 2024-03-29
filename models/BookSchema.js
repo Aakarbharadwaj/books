@@ -36,7 +36,7 @@ const bookSchema = new mongoose.Schema({
     language: {
         type: String,
         required: true,
-        enum : ['hi','eng','tel'],     
+        // enum : ['hi','eng','tel'],     
     },
     ISBN: {
         type: String,

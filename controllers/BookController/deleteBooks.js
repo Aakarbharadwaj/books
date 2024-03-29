@@ -4,7 +4,7 @@ const deleteBook = async (req, res) => {
         const bookId = req.params.id;
         const removeBook = await Book.findOne({ id: bookId });
         if (!removeBook) {
-            res.status(404).json({ message: "No such book found." })
+            return res.status(404).json({ message: "No such book found." })
         }
         await Book.findOneAndDelete({ id: bookId })
         res.status(200).json({ message: `${removeBook.book_name}book removed successfully...` }

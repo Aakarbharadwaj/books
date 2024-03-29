@@ -28,7 +28,7 @@ const addBooks = async (req, res) => {
     }
     catch (err) {
         console.error(`error in adding books ${err}`);
-        return res.status(500).json({ message: "inter server error" })
+        return res.status(500).json({ message: "internal server error" })
     }
 }
 module.exports = addBooks;
