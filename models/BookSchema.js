@@ -26,7 +26,7 @@ const bookSchema = new mongoose.Schema({
         required: true,
     },
     price: {
-        type: String,
+        type: Number,
         required: true,
         validate:{
             validator:(value) => value > 0,
@@ -44,5 +44,5 @@ const bookSchema = new mongoose.Schema({
     }
 });
 
-const Book = mongoose.model('Book', bookSchema);
+const Book = mongoose.model('books', bookSchema);
 module.exports = Book; 
